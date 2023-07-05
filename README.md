@@ -31,6 +31,10 @@ Wiki仓库 ：[https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)
 
 如果您想给本Wiki添加新的内容，请fork本项目 [https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)，编辑完毕提交更改请求以供审核。我们将其进行审核。
 
-使用Markdown语法编写  [https://www.runoob.com/markdown/md-tutorial.html](https://www.runoob.com/markdown/md-tutorial.html)
+**注意事项：**
+
+1.请使用Markdown语法编写  [https://www.runoob.com/markdown/md-tutorial.html](https://www.runoob.com/markdown/md-tutorial.html)
+
+2.新增markdown文件时，需要在 SUMMARY.md 中添加对应的索引（否则不能更新)
 
 </details>
