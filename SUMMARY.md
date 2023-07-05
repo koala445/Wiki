@@ -16,9 +16,8 @@
 
 ## 知识库
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [关于贡献GitHub](collaborating/Git.md)
 
 ## 使用条款
 
-* [🌴 使用条款](policies/terms-of-use)
+* [🌴 使用条款](policies/terms-of-use.md)
