@@ -6,12 +6,16 @@ coverY: 0
 # 👋 欢迎访问 SHSSEDU-Wiki !
 
 {% hint style="info" %}
-**关于本Wiki** 本Wiki是SHSSEDU官方知识库
+**关于本Wiki** 本Wiki是SHSSEDU官方知识库，使用[Gitbook](https://gitbook.com)与Markdown编写。
+
+在使用本知识库前，请阅读 [使用条款](policies/requesting-time-off.md)
 {% endhint %}
 
 官方网站：[https://shssedu.ac.cn/](https://shssedu.ac.cn/)
 
 Github组：[https://github.com/SHSSEDU/](https://github.com/SHSSEDU/)
+
+Wiki仓库 ：[https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)
 
 <details>
 
@@ -25,6 +29,8 @@ Github组：[https://github.com/SHSSEDU/](https://github.com/SHSSEDU/)
 
 <summary>贡献</summary>
 
-如果您想给本Wiki添加新的内容，请fork本项目 [https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)，提交更改请求以供审核。我们将其进行审核。
+如果您想给本Wiki添加新的内容，请fork本项目 [https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)，编辑完毕提交更改请求以供审核。我们将其进行审核。
+
+使用Markdown语法编写  [https://www.runoob.com/markdown/md-tutorial.html](https://www.runoob.com/markdown/md-tutorial.html)
 
 </details>

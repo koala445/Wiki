@@ -4,15 +4,15 @@
 
 关于我们
 
-* [🚀 Vision, Mission &amp; Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [🚀 愿景, 使命 &amp; 工作重点](about-us/vision-mission-and-focus/README.md)
+  * [愿景](about-us/vision-mission-and-focus/vision.md)
+  * [使命](about-us/vision-mission-and-focus/mission.md)
+  * [工作重点](about-us/vision-mission-and-focus/focus.md)
+* [💖 价值观](about-us/values.md)
 
 ## 团队
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 我们的团队!](team/meet-the-team.md)
 
 ## 知识库
 
