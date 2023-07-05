@@ -1,31 +1,15 @@
-# 💖 Values
+# 💖 价值观
 
-## Our Values
+## 我们的价值观
 
-{% hint style="info" %}
-**GitBook tip:** values reflect us as a team and shape our culture. Our values should be the daily foundation on which we define our goals and execute our work.
-{% endhint %}
+学习导向：我们相信学习是人类进步和成功的关键，因此我们致力于提供最优质的学习资源和服务，帮助用户实现自我发展和职业成功。
 
-<details>
+用户至上：我们始终将用户的需求和利益放在第一位，通过不断优化服务和体验，提高用户的满意度和忠诚度。
 
-<summary>🚀 Integrity</summary>
+创新精神：我们鼓励员工持续创新和探索，不断推陈出新，保持行业领先地位。
 
+合作共赢：我们坚信合作是实现共赢的关键，与用户、合作伙伴和员工建立良好的合作关系，共同推进事业的发展。
 
+诚信正直：我们始终秉持诚信和正直的原则，做到言行一致，以诚信赢得用户和社会的信任。
 
-</details>
-
-<details>
-
-<summary>✊ Diligence</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>💪 Accountability</summary>
-
-
-
-</details>
+社会责任：我们认为团队应该承担社会责任，通过知识共享和公益活动，为社会做出积极的贡献。
