@@ -13,6 +13,8 @@ coverY: 0
 
 官方网站：[https://shssedu.ac.cn/](https://shssedu.ac.cn/)
 
+官方邮箱：[admin@shssedu.ac.cn](mailto:admin@shssedu.ac.cn)
+
 Github组：[https://github.com/SHSSEDU/](https://github.com/SHSSEDU/)
 
 Wiki仓库 ：[https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)
