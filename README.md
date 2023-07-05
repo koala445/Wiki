@@ -1,31 +1,30 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
+  https://images.unsplash.com/photo-1645655892437-c5149679d223?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2532&q=80
 coverY: 0
 ---
-
-# 👋 Welcome!
+# 👋 欢迎访问 SHSSEDU-Wiki !
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**关于本Wiki** 本Wiki是SHSSEDU官方知识库
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+官方网站：[https://shssedu.ac.cn/](https://shssedu.ac.cn/)
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+Github组：[https://github.com/SHSSEDU/](https://github.com/SHSSEDU/)
 
 <details>
 
-<summary>How to use it?</summary>
+<summary>如何使用?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+你可以在这里搜索寻找你需要的信息。
 
 </details>
 
 <details>
 
-<summary>Contributing</summary>
+<summary>贡献</summary>
 
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
+如果您想给本Wiki添加新的内容，请fork本项目 [https://github.com/SHSSEDU/Wiki](https://github.com/SHSSEDU/Wiki)，提交更改请求以供审核。我们将其进行审核。
 
 </details>

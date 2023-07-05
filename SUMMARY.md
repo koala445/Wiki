@@ -1,24 +1,24 @@
-# Table of contents
+# 目录
 
-* [👋 Welcome!](README.md)
+* [👋 欢迎!](README.md)
 
-## About us
+关于我们
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
+* [🚀 Vision, Mission &amp; Focus](about-us/vision-mission-and-focus/README.md)
   * [Vision](about-us/vision-mission-and-focus/vision.md)
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
-## Team
+## 团队
 
 * [👋 Meet the Team!](team/meet-the-team.md)
 
-## Collaborating
+## 知识库
 
 * [🤝 How we Work Together](collaborating/how-we-work-together.md)
 * [📅 Meetings](collaborating/meetings.md)
 
-## Policies
+## 使用条款
 
 * [🌴 Requesting Time Off](policies/requesting-time-off.md)
