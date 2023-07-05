@@ -1,9 +1,5 @@
-# 🚀 Vision, Mission & Focus
+# 🚀 愿景、使命、工作重点
 
-## Our Vision
+## 我们的愿景
 
-{% hint style="info" %}
-**Good to know:** a good vision statement shows the long-term goals of the company without getting too deep into strategy, implementation, or product specifics.
-{% endhint %}
-
-Our company vision is to **be the authoritative reference point for environmentally conscious buyers** and to **encourage more sustainable business practices** through curating beautiful, practical, consciously-produced products.
+我们的愿景是打造一个全面而易于使用的学习知识库，为人们提供一个高效学习和持续进步的平台。我们致力于为用户提供最优质的学习资源，帮助他们掌握新的技能和知识，并为他们的个人和职业发展创造更多机会。通过我们的平台，我们希望促进全球社区的知识共享和合作，为推动社会进步和创新做出积极的贡献。
