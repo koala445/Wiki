@@ -8,7 +8,7 @@ coverY: 0
 {% hint style="info" %}
 **关于本Wiki** 本Wiki是SHSSEDU官方知识库，使用[Gitbook](https://gitbook.com)与Markdown编写。
 
-在使用本知识库前，请阅读 [使用条款](policies/requesting-time-off.md)
+在使用本知识库前，请阅读 [使用条款](policies/terms-of-use.md)
 {% endhint %}
 
 官方网站：[https://shssedu.ac.cn/](https://shssedu.ac.cn/)

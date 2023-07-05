@@ -21,4 +21,4 @@
 
 ## 使用条款
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [🌴 使用条款](policies/terms-of-use)
