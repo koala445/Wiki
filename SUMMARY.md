@@ -33,6 +33,9 @@
 * [其他](collaborating/qt)
   * Git
     * [关于贡献GitHub](collaborating/qt/Git/Git.md)
+  * Markdown
+    * [Markdown 入门基础](collaborating/qt/markdown/intro.md)
+    * [Markdown 语法速查表](collaborating/qt/markdown/cheat-sheet.md)
 
 ## 使用条款
 
