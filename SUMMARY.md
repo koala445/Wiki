@@ -16,7 +16,21 @@
 
 ## 知识库
 
-* [关于贡献GitHub](collaborating/Git.md)
+* [本科生](collaborating/bks)
+  * [工学](collaborating/bks/gx/)
+    * [计算机类](collaborating/bks/gx/jsj/)
+      * 计算机科学与技术
+      * 网络工程
+      * [智能科学与技术](collaborating/bks/gx/jsj/znkxyjs.md)
+      * 物联网工程
+
+* [研究生](collaborating/yjs)
+* [继续教育](collaborating/jxjy)
+* [留学生](lxs)
+* [就业](collaborating/jy)
+* [培训](collaborating/px)
+* [技能](collaborating/jn)
+* [其他](collaborating/qt)
 
 ## 使用条款
 
