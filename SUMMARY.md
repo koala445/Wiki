@@ -1,3 +1,4 @@
+
 # 目录
 
 * [👋 欢迎!](README.md)
@@ -31,12 +32,18 @@
 * [培训](collaborating/px)
 * [技能](collaborating/jn)
 * [其他](collaborating/qt)
+
   * Git
     * [关于贡献GitHub](collaborating/qt/Git/Git.md)
   * Markdown
     * [Markdown 入门基础](collaborating/qt/markdown/intro.md)
     * [Markdown 语法速查表](collaborating/qt/markdown/cheat-sheet.md)
+* [泛知识up主推荐](collaborating/up/tuijian.md)
+* [大学专业课程](collaborating/dakc/tuijian.md)
+* [其他课程](collaborating/qtkc/tuijian.md)
+* [书籍推荐](collaborating/book/tuijian.md)
 
 ## 使用条款
 
 * [🌴 使用条款](policies/terms-of-use.md)
+* [🌴 版权声明](policies/copyright.md)
